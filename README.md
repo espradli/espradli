@@ -1,6 +1,6 @@
 ### Welcome to Emerson's Github!
 This page holds most of my side projects from college, which were very fun to work on at the time, but now most of my best code 
-cannot be uploaded here! If you're interested in hearing about what I'm working on now, connect with me on linked in ![here](https://www.linkedin.com/in/emersonspradling/).
+cannot be uploaded here! If you're interested in hearing about what I'm working on now, connect with me on linked in [here](https://www.linkedin.com/in/emersonspradling/).
 
 Happy browsing!
 
